@@ -407,19 +407,19 @@ func bidirectionalBFS(start, end string, wordSet map[string]bool) int {
 
 ## 🏃‍♂️ Exercices pratiques
 
-### Easy
-- [Number of Islands](../exercises/bfs-graph/easy/num-islands.md)
-- [Binary Tree Level Order Traversal](../exercises/bfs-graph/easy/level-order.md)
-
+<!-- ### Easy -->
+<!-- - [Number of Islands](../exercises/bfs-graph/easy/num-islands.md) -->
+<!-- - [Binary Tree Level Order Traversal](../exercises/bfs-graph/easy/level-order.md) -->
+<!---->
 ### Medium
-- [Word Ladder](../exercises/bfs-graph/medium/word-ladder.md)
-- [Rotting Oranges](../exercises/bfs-graph/medium/rotting-oranges.md)
-- [01 Matrix](../exercises/bfs-graph/medium/01-matrix.md)
-- [Open the Lock](../exercises/bfs-graph/medium/open-lock.md)
-
-### Hard
-- [Word Ladder II](../exercises/bfs-graph/hard/word-ladder-ii.md)
-- [Minimum Window Substring](../exercises/bfs-graph/hard/min-window.md)
+<!-- - [Word Ladder](../exercises/bfs-graph/medium/word-ladder.md) -->
+- [Rotting Oranges](../exercises/bfs-graph/medium/rotting-oranges.md)bfs
+<!-- - [01 Matrix](../exercises/bfs-graph/medium/01-matrix.md) -->
+<!-- - [Open the Lock](../exercises/bfs-graph/medium/open-lock.md) -->
+<!---->
+<!-- ### Hard -->
+<!-- - [Word Ladder II](../exercises/bfs-graph/hard/word-ladder-ii.md) -->
+<!-- - [Minimum Window Substring](../exercises/bfs-graph/hard/min-window.md) -->
 
 ## 🧠 Stratégie de résolution
 
