@@ -279,20 +279,20 @@ func searchMatrix(matrix [][]int, target int) bool {
 
 ## 🏃‍♂️ Exercices pratiques
 
-<!-- ### Easy -->
-<!-- - [Binary Search](../exercises/binary-search/easy/binary-search.md) -->
-<!-- - [Search Insert Position](../exercises/binary-search/easy/search-insert.md) -->
-<!-- - [First Bad Version](../exercises/binary-search/easy/first-bad-version.md) -->
-<!---->
-<!-- ### Medium -->
-<!-- - [Search in Rotated Sorted Array](../exercises/binary-search/medium/search-rotated.md) -->
-<!-- - [Find Peak Element](../exercises/binary-search/medium/find-peak.md) -->
+### Easy
+- [Binary Search](../exercises/binary-search/easy/binary-search.md)
+- [Search Insert Position](../exercises/binary-search/easy/search-insert.md)
+- [First Bad Version](../exercises/binary-search/easy/first-bad-version.md)
+
+### Medium
+- [Search in Rotated Sorted Array](../exercises/binary-search/medium/search-rotated.md)
+- [Find Peak Element](../exercises/binary-search/medium/find-peak.md)
 - [Koko Eating Bananas](../exercises/binary-search/medium/koko-bananas.md)
-<!-- - [Search 2D Matrix](../exercises/binary-search/medium/search-matrix.md) -->
-<!---->
-<!-- ### Hard -->
-<!-- - [Median of Two Sorted Arrays](../exercises/binary-search/hard/median-arrays.md) -->
-<!-- - [Split Array Largest Sum](../exercises/binary-search/hard/split-array.md) -->
+- [Search 2D Matrix](../exercises/binary-search/medium/search-matrix.md)
+
+### Hard
+- [Median of Two Sorted Arrays](../exercises/binary-search/hard/median-arrays.md)
+- [Split Array Largest Sum](../exercises/binary-search/hard/split-array.md)
 
 ## 🧠 Stratégie de résolution
 

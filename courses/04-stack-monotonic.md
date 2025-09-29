@@ -328,19 +328,19 @@ func sumSubarrayMins(arr []int) int {
 
 ## 🏃‍♂️ Exercices pratiques
 
-<!-- ### Easy -->
-<!-- - [Next Greater Element I](../exercises/monotonic-stack/easy/next-greater-i.md) -->
-<!-- - [Baseball Game](../exercises/monotonic-stack/easy/baseball-game.md) -->
-<!---->
+### Easy
+- [Next Greater Element I](../exercises/monotonic-stack/easy/next-greater-i.md)
+- [Baseball Game](../exercises/monotonic-stack/easy/baseball-game.md)
+
 ### Medium
 - [Daily Temperatures](../exercises/monotonic-stack/medium/daily-temperatures.md)
-<!-- - [Next Greater Element II](../exercises/monotonic-stack/medium/next-greater-ii.md) -->
-<!-- - [Largest Rectangle in Histogram](../exercises/monotonic-stack/medium/largest-rectangle.md) -->
-<!-- - [Sum of Subarray Minimums](../exercises/monotonic-stack/medium/subarray-minimums.md) -->
-<!---->
-<!-- ### Hard -->
-<!-- - [Trapping Rain Water](../exercises/monotonic-stack/hard/trapping-rain-water.md) -->
-<!-- - [Largest Rectangle in Binary Matrix](../exercises/monotonic-stack/hard/largest-rectangle-matrix.md) -->
+- [Next Greater Element II](../exercises/monotonic-stack/medium/next-greater-ii.md)
+- [Largest Rectangle in Histogram](../exercises/monotonic-stack/medium/largest-rectangle.md)
+- [Sum of Subarray Minimums](../exercises/monotonic-stack/medium/subarray-minimums.md)
+
+### Hard
+- [Trapping Rain Water](../exercises/monotonic-stack/hard/trapping-rain-water.md)
+- [Largest Rectangle in Binary Matrix](../exercises/monotonic-stack/hard/largest-rectangle-matrix.md)
 
 ## 🧠 Stratégie de résolution
 

@@ -141,16 +141,16 @@ func removeDuplicates(nums []int) int {
 
 ### Easy
 - [Two Sum II (Sorted Array)](../exercises/two-pointers/easy/two-sum-ii.md)
-<!-- - [Valid Palindrome](../exercises/two-pointers/easy/valid-palindrome.md) -->
-<!-- - [Remove Duplicates](../exercises/two-pointers/easy/remove-duplicates.md) -->
-<!---->
-<!-- ### Medium   -->
-<!-- - [3Sum](../exercises/two-pointers/medium/three-sum.md) -->
-<!-- - [Container With Most Water](../exercises/two-pointers/medium/container-water.md) -->
-<!-- - [Sort Colors](../exercises/two-pointers/medium/sort-colors.md) -->
-<!---->
-<!-- ### Hard -->
-<!-- - [Trapping Rain Water](../exercises/two-pointers/hard/trapping-rain-water.md) -->
+- [Valid Palindrome](../exercises/two-pointers/easy/valid-palindrome.md)
+- [Remove Duplicates](../exercises/two-pointers/easy/remove-duplicates.md)
+
+### Medium
+- [3Sum](../exercises/two-pointers/medium/three-sum.md)
+- [Container With Most Water](../exercises/two-pointers/medium/container-water.md)
+- [Sort Colors](../exercises/two-pointers/medium/sort-colors.md)
+
+### Hard
+- [Trapping Rain Water](../exercises/two-pointers/hard/trapping-rain-water.md)
 
 ## ➡️ Cours suivant
 

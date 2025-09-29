@@ -213,18 +213,18 @@ func minWindow(s string, t string) string {
 
 ## 🏃‍♂️ Exercices pratiques
 
-<!-- ### Easy -->
-<!-- - [Maximum Average Subarray](../exercises/sliding-window/easy/max-average.md) -->
-<!-- - [Contains Duplicate II](../exercises/sliding-window/easy/contains-duplicate.md) -->
+### Easy
+- [Maximum Average Subarray](../exercises/sliding-window/easy/max-average.md)
+- [Contains Duplicate II](../exercises/sliding-window/easy/contains-duplicate.md)
 
 ### Medium
 - [Longest Substring Without Repeating](../exercises/sliding-window/medium/longest-substring.md)
-<!-- - [Max Consecutive Ones III](../exercises/sliding-window/medium/max-ones.md) -->
-<!-- - [Fruit Into Baskets](../exercises/sliding-window/medium/fruit-baskets.md) -->
-<!---->
-<!-- ### Hard -->
-<!-- - [Minimum Window Substring](../exercises/sliding-window/hard/min-window.md) -->
-<!-- - [Sliding Window Maximum](../exercises/sliding-window/hard/sliding-max.md) -->
+- [Max Consecutive Ones III](../exercises/sliding-window/medium/max-ones.md)
+- [Fruit Into Baskets](../exercises/sliding-window/medium/fruit-baskets.md)
+
+### Hard
+- [Minimum Window Substring](../exercises/sliding-window/hard/min-window.md)
+- [Sliding Window Maximum](../exercises/sliding-window/hard/sliding-max.md)
 
 ## ➡️ Cours suivant
 
