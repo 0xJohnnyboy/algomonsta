@@ -368,22 +368,22 @@ func dfsWithMemo(root *TreeNode) int {
 
 ## 🏃‍♂️ Exercices pratiques
 
-<!-- ### Easy -->
-<!-- - [Maximum Depth of Binary Tree](../exercises/dfs-tree/easy/max-depth.md) -->
-<!-- - [Invert Binary Tree](../exercises/dfs-tree/easy/invert-tree.md) -->
-<!-- - [Path Sum](../exercises/dfs-tree/easy/path-sum.md) -->
-<!-- - [Same Tree](../exercises/dfs-tree/easy/same-tree.md) -->
+### Easy
+- [Maximum Depth of Binary Tree](../exercises/dfs-tree/easy/max-depth.md)
+- [Invert Binary Tree](../exercises/dfs-tree/easy/invert-tree.md)
+- [Path Sum](../exercises/dfs-tree/easy/path-sum.md)
+- [Same Tree](../exercises/dfs-tree/easy/same-tree.md)
 
 ### Medium
 - [Path Sum II](../exercises/dfs-tree/medium/path-sum-ii.md)
-<!-- - [Binary Tree Paths](../exercises/dfs-tree/medium/tree-paths.md) -->
-<!-- - [Validate Binary Search Tree](../exercises/dfs-tree/medium/validate-bst.md) -->
-<!-- - [Diameter of Binary Tree](../exercises/dfs-tree/medium/diameter.md) -->
-<!-- - [Lowest Common Ancestor](../exercises/dfs-tree/medium/lca.md) -->
-<!---->
-<!-- ### Hard -->
-<!-- - [Binary Tree Maximum Path Sum](../exercises/dfs-tree/hard/max-path-sum.md) -->
-<!-- - [Serialize and Deserialize Binary Tree](../exercises/dfs-tree/hard/serialize.md) -->
+- [Binary Tree Paths](../exercises/dfs-tree/medium/tree-paths.md)
+- [Validate Binary Search Tree](../exercises/dfs-tree/medium/validate-bst.md)
+- [Diameter of Binary Tree](../exercises/dfs-tree/medium/diameter.md)
+- [Lowest Common Ancestor](../exercises/dfs-tree/medium/lca.md)
+
+### Hard
+- [Binary Tree Maximum Path Sum](../exercises/dfs-tree/hard/max-path-sum.md)
+- [Serialize and Deserialize Binary Tree](../exercises/dfs-tree/hard/serialize.md)
 
 ## 🧠 Stratégie de résolution
 
