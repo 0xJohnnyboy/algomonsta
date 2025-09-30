@@ -6,11 +6,15 @@
 
 ## 📝 Énoncé
 
-Vous avez un tableau d'entiers `height` de longueur `n`. Il y a `n` lignes verticales dessinées de sorte que les deux extrémités de la `i`ème ligne sont `(i, 0)` et `(i, height[i])`.
+Imaginez que vous avez des **murs verticaux** de différentes hauteurs. Vous voulez choisir **deux murs** qui peuvent contenir le plus d'eau entre eux.
 
-Trouvez deux lignes qui, avec l'axe des x, forment un conteneur qui contient le plus d'eau.
+Vous avez un tableau d'entiers `height` où `height[i]` représente la hauteur du mur à la position `i`.
 
-Retournez la quantité maximale d'eau qu'un conteneur peut stocker.
+**🧠 Principe :** La quantité d'eau = **largeur × hauteur**
+- **Largeur** = distance entre les deux murs choisis
+- **Hauteur** = le plus petit des deux murs (l'eau déborde du mur le plus court)
+
+**🎯 Objectif :** Trouvez les deux murs qui donnent la **surface d'eau maximale**.
 
 **Remarque :** Vous ne pouvez pas incliner le conteneur.
 
@@ -20,14 +24,32 @@ Retournez la quantité maximale d'eau qu'un conteneur peut stocker.
 ```
 Input: height = [1,8,6,2,5,4,8,3,7]
 Output: 49
-Explication: Les lignes verticales ci-dessus sont représentées par le tableau [1,8,6,2,5,4,8,3,7].
-Dans ce cas, la quantité maximale d'eau (zone bleue) que le conteneur peut contenir est 49.
+
+Visualisation des murs :
+     |
+     |       |
+     |   |   |
+     | | | | | |
+   | | | | | | | |
+ | | | | | | | | |
+[1,8,6,2,5,4,8,3,7]
+ 0 1 2 3 4 5 6 7 8  (indices)
+
+Meilleure solution : murs à l'index 1 (hauteur=8) et index 8 (hauteur=7)
+- Largeur = 8 - 1 = 7
+- Hauteur = min(8, 7) = 7
+- Surface = 7 × 7 = 49
 ```
 
 **Exemple 2 :**
 ```
 Input: height = [1,1]
 Output: 1
+
+Seulement deux murs de hauteur 1 :
+- Largeur = 1 - 0 = 1
+- Hauteur = min(1, 1) = 1
+- Surface = 1 × 1 = 1
 ```
 
 ## 🎯 Contraintes
